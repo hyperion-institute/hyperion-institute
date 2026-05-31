@@ -23,4 +23,3 @@ This is an ongoing journey of learning and documentation. If you are also passio
 If you find any mistakes, have suggestions, or want to contribute a better way to explain a concept, your feedback via **Issues** or **Pull Requests** is highly appreciated. Let’s make this space a richer learning environment together!
 
 ---
-*“An investment in knowledge pays the best interest.” – Continuously building, learning, and sharing.* 🚀
