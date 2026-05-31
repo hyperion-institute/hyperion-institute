@@ -2,7 +2,7 @@
 
 Welcome to my GitHub space! 
 
-This profile is dedicated to a single, continuous mission: **sharing and expanding knowledge in the field of Artificial Intelligence**. 
+This profile is dedicated to a single, continuous mission: **sharing and expanding knowledge in the field of Computer Science**. 
 
 Rather than a static portfolio, think of this space as a growing, dynamic library. My goal is to continuously document, refine, and upload everything I learn and discover about AI, making it an accessible resource for everyone.
 
