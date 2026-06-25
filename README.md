@@ -1,4 +1,4 @@
-# 🏛️ My Knowledge Hub
+# My Knowledge Hub
 
 Welcome to my GitHub space! 
 
