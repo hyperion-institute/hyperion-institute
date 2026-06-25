@@ -16,7 +16,7 @@ Rather than a static portfolio, think of this space as a growing, dynamic librar
 
 ---
 
-## 🤝 Build This Space With Me
+## Build This Space With Me
 
 This is an ongoing journey of learning and documentation. If you are also passionate about AI, you are more than welcome to explore the repositories. 
 
