@@ -8,7 +8,7 @@ Rather than a static portfolio, think of this space as a growing, dynamic librar
 
 ---
 
-## 🎯 My Commitment to this Space
+## My Commitment to this Space
 
 *   **Sharing What I Know:** Every repository here is an effort to translate my knowledge, experiments, and insights into structured, open-source resources.
 *   **Continuous Evolution:** AI is shifting rapidly. I am committed to constantly building, updating, and expanding this space with deeper and newer knowledge over time.
