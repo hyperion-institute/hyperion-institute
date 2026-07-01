@@ -24,11 +24,3 @@ The primary purpose of this space is to document and organize my journey in:
 This serves as an environment where ideas can be explored, tested, refined, and preserved over time.
 
 ---
-
-## Philosophy
-
-I believe meaningful understanding comes from building, experimenting, and continuously questioning how systems work.
-
-This GitHub reflects that mindset—a place where knowledge is actively constructed through exploration and practice.
-
----
