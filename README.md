@@ -1,25 +1,34 @@
-# My Knowledge Hub
+# Knowledge Archive
 
-Welcome to my GitHub space! 
+Welcome to my GitHub.
 
-This profile is dedicated to a single, continuous mission: **sharing and expanding knowledge in the field of Computer Science**. 
+This space serves as a centralized archive for everything I have built, studied, explored, and am currently working on across Computer Science and related technical domains.
 
-Rather than a static portfolio, think of this space as a growing, dynamic library. My goal is to continuously document, refine, and upload everything I learn and discover about AI, making it an accessible resource for everyone.
+Rather than functioning as a traditional portfolio, this GitHub is designed as a living workspace for learning, experimentation, research, and development. It contains projects, technical explorations, implementations, notes, and accumulated knowledge from various areas of interest.
 
----
-
-## My Commitment to this Space
-
-*   **Sharing What I Know:** Every repository here is an effort to translate my knowledge, experiments, and insights into structured, open-source resources.
-*   **Continuous Evolution:** AI is shifting rapidly. I am committed to constantly building, updating, and expanding this space with deeper and newer knowledge over time.
-*   **Focus Areas:** The content here will progressively cover the full spectrum of AI—ranging from foundational algorithms and theoretical mechanics to advanced deep learning architectures.
+This is not a static collection of finished work.
+It is an evolving record of continuous learning, building, and discovery.
 
 ---
 
-## Build This Space With Me
+## Purpose
 
-This is an ongoing journey of learning and documentation. If you are also passionate about AI, you are more than welcome to explore the repositories. 
+The primary purpose of this space is to document and organize my journey in:
 
-If you find any mistakes, have suggestions, or want to contribute a better way to explain a concept, your feedback via **Issues** or **Pull Requests** is highly appreciated. Let’s make this space a richer learning environment together!
+* learning
+* experimentation
+* research
+* problem solving
+* system building
+
+This serves as an environment where ideas can be explored, tested, refined, and preserved over time.
+
+---
+
+## Philosophy
+
+I believe meaningful understanding comes from building, experimenting, and continuously questioning how systems work.
+
+This GitHub reflects that mindset—a place where knowledge is actively constructed through exploration and practice.
 
 ---
