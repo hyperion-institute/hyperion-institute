@@ -1,5 +1,9 @@
 # Hyperion Institute
 
+[![Profile Views](https://komarev.com/ghpvc/?username=hyperion-institute&color=blue&style=flat)](https://github.com/hyperion-institute)
+[![GitHub followers](https://img.shields.io/github/followers/hyperion-institute?style=flat&color=blue)](https://github.com/hyperion-institute)
+[![Repos](https://img.shields.io/github/stars/hyperion-institute?style=flat&color=blue&label=stars)](https://github.com/hyperion-institute)
+
 This GitHub is a personal research space — a place to experiment, explore ideas, and satisfy curiosity through hands-on work rather than theory alone.
 
 ## Purpose
@@ -14,6 +18,11 @@ This account exists as a working notebook for inquiry. It is not a portfolio of 
 ## Approach
 
 Work here is exploratory by nature. Repositories may represent early-stage experiments, partial investigations, or attempts that did not fully succeed — all treated as valid parts of the research process, not exceptions to it.
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hyperion-institute&show_icons=true&theme=default&hide_title=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hyperion-institute&layout=compact&theme=default)
 
 ## Note
 
