@@ -14,7 +14,7 @@ This account exists as a working notebook for curiosity. It is not a portfolio o
 
 ```
 > mission
-  - experiment with new concepts before they are fully understood
+  - experiment with new concepts and comprehend through practice
   - explore creative and unconventional solutions
   - follow curiosity into new domains, methods, and tools
   - treat learning as active and iterative, not passive
