@@ -41,4 +41,3 @@ Work here is exploratory by nature. Repositories may represent early-stage exper
 ## Note
 
 This space reflects a method more than a mission: observe, question, test, revise, and repeat.
-
