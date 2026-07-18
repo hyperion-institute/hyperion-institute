@@ -19,11 +19,6 @@ This account exists as a working notebook for inquiry. It is not a portfolio of 
 
 Work here is exploratory by nature. Repositories may represent early-stage experiments, partial investigations, or attempts that did not fully succeed — all treated as valid parts of the research process, not exceptions to it.
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hyperion-institute&show_icons=true&theme=default&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hyperion-institute&layout=compact&theme=default)
-
 ## Note
 
 This space reflects a method more than a mission: observe, question, test, revise, and repeat.
