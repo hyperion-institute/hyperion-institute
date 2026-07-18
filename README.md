@@ -29,7 +29,6 @@ This account exists as a working notebook, not a portfolio. Most of what's here 
   - networking
   - embedded systems
   - small software experiments
-  - whatever else pulls focus next
 ```
 
 ---
