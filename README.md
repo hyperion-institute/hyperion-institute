@@ -41,13 +41,6 @@ Work here is exploratory by nature. Repositories may represent early-stage exper
 
 ---
 
-<div align="center">
-
-![Followers](https://img.shields.io/github/followers/hyperion-institute?style=for-the-badge&color=0f172a&logoColor=00ffcc&labelColor=1e293b)
-![Stars](https://img.shields.io/github/stars/hyperion-institute?style=for-the-badge&color=0f172a&labelColor=1e293b)
-
-</div>
-
 ## Note
 
 This space reflects a method more than a mission: observe, question, test, revise, and repeat.
