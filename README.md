@@ -30,7 +30,6 @@ Work here is exploratory by nature. Repositories may represent early-stage exper
 
 ### Activity
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyperion-institute&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
 
 <img src="https://streak-stats.demolab.com?user=hyperion-institute&theme=tokyonight&hide_border=true" width="60%"/>
 
