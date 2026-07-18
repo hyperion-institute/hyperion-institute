@@ -23,7 +23,7 @@ This account exists as a working notebook, not a portfolio. Most of what's here 
 ## Currently Researching
 
 ```
-> research --in_progress
+> research
   - artificial intelligence
   - human-machine integration
   - networking
