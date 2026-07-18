@@ -20,9 +20,14 @@ This account exists as a working notebook for curiosity. It is not a portfolio o
   - treat learning as active and iterative, not passive
 ```
 
-## Approach
+## Domains
 
-Work here is exploratory by nature. Repositories may represent early-stage experiments, partial investigations, or attempts that did not fully succeed — all treated as valid parts of the research process, not exceptions to it.
+- Artificial intelligence
+- Human-machine integration
+- Networking
+- Embedded systems
+- Small software experiments
+- Whatever sparks curiosity
 
 ---
 
