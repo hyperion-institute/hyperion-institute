@@ -1,9 +1,5 @@
 # Hyperion Institute
 
-[![Profile Views](https://komarev.com/ghpvc/?username=hyperion-institute&color=blue&style=flat)](https://github.com/hyperion-institute)
-[![GitHub followers](https://img.shields.io/github/followers/hyperion-institute?style=flat&color=blue)](https://github.com/hyperion-institute)
-[![Repos](https://img.shields.io/github/stars/hyperion-institute?style=flat&color=blue&label=stars)](https://github.com/hyperion-institute)
-
 This GitHub is a personal research space — a place to experiment, explore ideas, and satisfy curiosity through hands-on work rather than theory alone.
 
 ## Purpose
