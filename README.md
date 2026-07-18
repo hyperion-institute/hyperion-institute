@@ -20,9 +20,17 @@ This account exists as a working notebook, not a portfolio. Most of what's here 
   - treat learning as active and iterative, not passive
 ```
 
-## Approach
+## Currently Researching
 
-This work follows an exploratory approach, though a deliberate one. Repositories may represent early-stage experiments, partial investigations, or attempts that did not fully succeed — all treated as valid parts of the research process, not exceptions to it.
+```
+> research --in_progress
+  - artificial intelligence
+  - human-machine integration
+  - networking
+  - embedded systems
+  - small software experiments
+  - whatever else pulls focus next
+```
 
 ---
 
