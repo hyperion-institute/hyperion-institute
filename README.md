@@ -30,7 +30,6 @@ Work here is exploratory by nature. Repositories may represent early-stage exper
 
 ### Activity
 
-
 <img src="https://streak-stats.demolab.com?user=hyperion-institute&theme=tokyonight&hide_border=true" width="60%"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hyperion-institute&theme=tokyo-night&hide_border=true" width="90%"/>
