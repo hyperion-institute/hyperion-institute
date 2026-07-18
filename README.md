@@ -10,7 +10,7 @@
 
 ## Purpose
 
-This account exists as a working notebook for curiosity. It is not a portfolio of finished products, but a record of an ongoing process: testing ideas, building small experiments, and learning by doing.
+This account exists as a working notebook, not a portfolio. Most of what's here is unfinished by design — early-stage experiments, partial investigations, attempts that didn't fully land. All of it is treated as a valid part of the process, not an exception to it.
 
 ```
 > mission
