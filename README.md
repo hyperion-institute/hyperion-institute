@@ -1,26 +1,20 @@
-# Knowledge Archive
+# Hyperion Institute
 
-Welcome to my GitHub.
-
-This space serves as a centralized archive for everything I have built, studied, explored, and am currently working on across Computer Science and related technical domains.
-
-Rather than functioning as a traditional portfolio, this GitHub is designed as a living workspace for learning, experimentation, research, and development. It contains projects, technical explorations, implementations, notes, and accumulated knowledge from various areas of interest.
-
-This is not a static collection of finished work.
-It is an evolving record of continuous learning, building, and discovery.
-
----
+This GitHub is a personal research space — a place to experiment, explore ideas, and satisfy curiosity through hands-on work rather than theory alone.
 
 ## Purpose
 
-The primary purpose of this space is to document and organize my journey in:
+This account exists as a working notebook for inquiry. It is not a portfolio of finished products, but a record of an ongoing process: testing ideas, building small experiments, and learning by doing.
 
-* learning
-* experimentation
-* research
-* problem solving
-* system building
+- To experiment with new concepts and approaches before they are fully understood
+- To explore creative and unconventional solutions to problems
+- To follow curiosity into new domains, methods, and tools
+- To treat learning as an active, iterative process rather than a passive one
 
-This serves as an environment where ideas can be explored, tested, refined, and preserved over time.
+## Approach
 
----
+Work here is exploratory by nature. Repositories may represent early-stage experiments, partial investigations, or attempts that did not fully succeed — all treated as valid parts of the research process, not exceptions to it.
+
+## Note
+
+This space reflects a method more than a mission: observe, question, test, revise, and repeat.
