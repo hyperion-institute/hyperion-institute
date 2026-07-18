@@ -42,6 +42,6 @@ Work here is exploratory by nature. Repositories may represent early-stage exper
 
 This space reflects a method more than a mission: observe, question, test, revise, and repeat.
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:1e293b,100:0f172a&height=100&section=footer" width="100%"/>
-</p>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e293b,100:0f172a&height=60&section=footer" width="100%"/>
+</div>
