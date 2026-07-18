@@ -42,6 +42,3 @@ Work here is exploratory by nature. Repositories may represent early-stage exper
 
 This space reflects a method more than a mission: observe, question, test, revise, and repeat.
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/hyperion-institute/hyperion-institute/main/assets/binary.svg" width="100%"/>
-</p>
