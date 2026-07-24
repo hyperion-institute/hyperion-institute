@@ -1,6 +1,6 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e293b&height=120&section=header&text=HYPERION%20INSTITUTE&fontSize=32&fontColor=00ffcc&fontAlignY=55&desc=research%20%7C%20experiment%20%7C%20iterate&descAlignY=80&descSize=14&descColor=94a3b8" width="100%" alt="Hyperion Institute"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=observe+%E2%86%92+question+%E2%86%92+test+%E2%86%92+revise;a+working+notebook+for+curiosity;curiosity-driven+research+space" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F14,100:1B2330&height=120&section=header&text=HYPERION%20INSTITUTE&fontSize=32&fontColor=00D9FF&fontAlignY=55&desc=research%20%7C%20experiment%20%7C%20iterate&descAlignY=80&descSize=14&descColor=A5B3C2" width="100%" alt="Hyperion Institute"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF2E9A&center=true&vCenter=true&width=600&lines=observe+%E2%86%92+question+%E2%86%92+test+%E2%86%92+revise;a+working+notebook+for+curiosity;curiosity-driven+research+space" alt="Typing SVG" />
 </div>
 
 ---
@@ -17,7 +17,6 @@ This account exists as a working notebook, not a portfolio. Most of what's here 
 ```
 
 ## Currently Researching
-
 ```
 > research
   - artificial intelligence
@@ -33,8 +32,9 @@ This account exists as a working notebook, not a portfolio. Most of what's here 
 
 ### Activity
 
-<img src="https://streak-stats.demolab.com?user=hyperion-institute&theme=tokyonight&hide_border=true" width="60%" alt="GitHub Streak Stats"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hyperion-institute&theme=tokyo-night&hide_border=true" width="90%" alt="GitHub Activity Graph"/>
+<img src="https://streak-stats.demolab.com?user=hyperion-institute&hide_border=true&background=0B0F14&border=2C394A&stroke=2C394A&ring=00D9FF&fire=FF2E9A&currStreakNum=F2F6FA&sideNums=A5B3C2&currStreakLabel=00D9FF&sideLabels=A5B3C2&dates=72839A" width="60%" alt="GitHub Streak Stats"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hyperion-institute&hide_border=true&bg_color=0B0F14&color=A5B3C2&line=00D9FF&point=FF2E9A&area_color=00D9FF&title_color=F2F6FA" width="90%" alt="GitHub Activity Graph"/>
 
 </div>
 
