@@ -34,7 +34,7 @@ This account exists as a working notebook, not a portfolio. Most of what's here 
 
 <img src="https://streak-stats.demolab.com?user=hyperion-institute&hide_border=true&background=0B0F14&border=2C394A&stroke=2C394A&ring=00D9FF&fire=FF2E9A&currStreakNum=F2F6FA&sideNums=A5B3C2&currStreakLabel=00D9FF&sideLabels=A5B3C2&dates=72839A" width="60%" alt="GitHub Streak Stats"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hyperion-institute&hide_border=true&bg_color=0B0F14&color=A5B3C2&line=00D9FF&point=FF2E9A&area_color=00D9FF&title_color=F2F6FA" width="90%" alt="GitHub Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hyperion-institute&hide_border=true&bg_color=0B0F14&color=A5B3C2&line=22D37D&point=22D37D&area_color=22D37D&title_color=F2F6FA" width="90%" alt="GitHub Activity Graph"/>
 
 </div>
 
