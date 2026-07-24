@@ -1,5 +1,6 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F14,100:1B2330&height=120&section=header&text=HYPERION%20INSTITUTE&fontSize=32&fontColor=00D9FF&fontAlignY=55&desc=research%20%7C%20experiment%20%7C%20iterate&descAlignY=80&descSize=14&descColor=FFB627" width="100%" alt="Hyperion Institute"/>
+<img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=700&size=34&pause=1000&color=00D9FF&background=00000000&center=true&vCenter=true&repeat=false&width=600&lines=HYPERION+INSTITUTE" alt="Hyperion Institute" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&pause=1000&color=FFB627&background=00000000&center=true&vCenter=true&repeat=false&width=600&lines=research+%7C+experiment+%7C+iterate" alt="research | experiment | iterate" />
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF2E9A&center=true&vCenter=true&width=600&lines=observe+%E2%86%92+question+%E2%86%92+test+%E2%86%92+revise;a+working+notebook+for+curiosity;curiosity-driven+research+space" alt="Typing SVG" />
 </div>
 
